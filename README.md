@@ -7,6 +7,6 @@
 
 <hr />
 
-![Dark mode](https://cdn.devtoys24.com/file/cdn-images-devtoys/themes/dark.png)
+![Dark mode](https://cdn.devtoys24.com/themes/dark.png)
 
-![Light mode](https://cdn.devtoys24.com/file/cdn-images-devtoys/themes/light.png)
+![Light mode](https://cdn.devtoys24.com/themes/light.png)
